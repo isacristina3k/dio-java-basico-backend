@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ExemploTryCatch",
+            "request": "launch",
+            "mainClass": "ExemploTryCatch",
+            "projectName": "controle-de-fluxo_d4a112d7"
+        },
+        {
+            "type": "java",
             "name": "ExemploFor",
             "request": "launch",
             "mainClass": "ExemploFor",
