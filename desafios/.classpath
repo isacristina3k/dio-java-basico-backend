@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="desafios-de-codigo/src"/>
+	<classpathentry kind="src" path="exemplos-controle-de-fluxo/src"/>
+	<classpathentry kind="src" path="exer-controle-de-fluxo/src"/>
+	<classpathentry kind="src" path="sintaxe/ContaBanco/src"/>
+	<classpathentry kind="output" path="exemplos-controle-de-fluxo/bin"/>
+</classpath>
