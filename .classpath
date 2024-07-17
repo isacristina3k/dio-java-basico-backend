@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="desafios/desafios-de-codigo/src"/>
+	<classpathentry kind="src" path="desafios/exemplos-controle-de-fluxo/src"/>
+	<classpathentry kind="src" path="desafios/exer-controle-de-fluxo/src"/>
+	<classpathentry kind="src" path="desafios/sintaxe/ContaBanco/src"/>
+	<classpathentry kind="src" path="metodos/src"/>
+	<classpathentry kind="src" path="SmartFone"/>
+	<classpathentry kind="output" path="desafios/exemplos-controle-de-fluxo/bin"/>
+</classpath>
