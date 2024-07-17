@@ -36,10 +36,8 @@ public class RegistroTransacoesBancarias {
                 i--; // Decrementa o índice para repetir a iteração
             }
         }
-        
-
         // TODO: Exibir o saldo final e a lista de transações conforme a tabela de Exemplos.
-      System.out.println("Saldo:" + valorTransacao);
+        System.out.println(transacoes);
         // Fechar o scanner para evitar vazamentos de recursos
         scanner.close();
     }
