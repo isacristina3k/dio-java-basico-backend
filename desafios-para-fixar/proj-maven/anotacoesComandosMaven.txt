@@ -1,0 +1,12 @@
+			criou 2 pastas separadas p '.'  nome do projeto			     	
+mvn archetype:generate -DgroupId=one.digitalinnovation -DartifactId=quick-start-maven -Darchetype=maven-achivetype-quickstar -DinteractiveMode=false
+
+mvn compile (compila classes)
+
+mvn test (encontra todas as classes de teste e faz cada validação dela, se a verificaçao falha aponta no cmd)
+
+mvn package (cria o jar para empacotamento onde permite compartilhamento do proj)
+
+maven archetype (template que possibilita a personalizaçao e configuraçao de como o projeto sera 
+construido onde define versoes dos componentes e quais vao ser utilizados tbm define como serão 
+organizados os pacotes e arquivos do proj existem projetos ja definidos no repositorio pesquisando maven archetype list)
