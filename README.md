@@ -1,7 +1,7 @@
 
 # Olá, sou Isadora!
 
-Sobre mim: Moro em Sorocaba e atualmente estou estudando Ciências da Computação pelo IFSP. Tenho como objetivo me aprofundar em Desenvolvimento de Software com foco principalmente em Backend Java.
+Sobre mim: Moro em Sorocaba e sou Bacharel em Ciências da Computação pelo IFSP, concluí em Agosto/2024. Tenho como objetivo me aprofundar em Desenvolvimento de Software com foco principalmente em Backend Java.
 
 ## Habilidades
 - Conhecimento Básico em Java 	![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
